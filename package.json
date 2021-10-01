@@ -4,9 +4,13 @@
   "description": "This is a Website for the fictional campsites review site Nucamp",
   "main": "index.html",
   "scripts": {
-    "lite":"lite-server",
+    "lite": "lite-server",
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jasmineeortiz411/Nucampsite.git"
   },
   "author": "Jasmine Ortiz",
   "license": "ISC",
@@ -15,6 +19,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
   }
